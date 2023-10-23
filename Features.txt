@@ -1,0 +1,17 @@
+-- To do: CRUD In front
++ NavBar:
+	+ Home
+	+ Add Article (planter)
+	+ Contact us
+	+ About
+	+ Search
+
++ Add New page : show single item
+	+ Button : Modify, Delete
+
++ Add animation to :
+	- hover on item
+	- panier ( close, open )
+	- if panier > 0 => color red else 
+
++ Add style to : Button, font, select option
